@@ -1,0 +1,6 @@
+E:\study\PREPARE_TO_BYTEPROTECT\proj\FirstWebApp\FirstWebApp\FirstWebApp\bin\FirstWebApp.dll.config
+E:\study\PREPARE_TO_BYTEPROTECT\proj\FirstWebApp\FirstWebApp\FirstWebApp\bin\FirstWebApp.dll
+E:\study\PREPARE_TO_BYTEPROTECT\proj\FirstWebApp\FirstWebApp\FirstWebApp\bin\FirstWebApp.pdb
+E:\study\PREPARE_TO_BYTEPROTECT\proj\FirstWebApp\FirstWebApp\FirstWebApp\obj\Debug\FirstWebApp.csprojResolveAssemblyReference.cache
+E:\study\PREPARE_TO_BYTEPROTECT\proj\FirstWebApp\FirstWebApp\FirstWebApp\obj\Debug\FirstWebApp.dll
+E:\study\PREPARE_TO_BYTEPROTECT\proj\FirstWebApp\FirstWebApp\FirstWebApp\obj\Debug\FirstWebApp.pdb
